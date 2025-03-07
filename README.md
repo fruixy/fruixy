@@ -23,7 +23,6 @@
 
 ### 📊 Statistiques GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=fruixy&show_icons=true&theme=light&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fruixy&layout=compact&theme=light&hide_border=true)
 
 ---
@@ -32,15 +31,5 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lemonnieralexis19@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexis-lemonnier-93bb5b220/)
-
----
-
-### 🎉 Un petit plus ?
-
-- **Graphique d'activité :**
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=fruixy&theme=github-light&hide_border=true)
-
-- **Commits dynamiques :**
-![GitHub Streak](https://streak-stats.demolab.com/?user=fruixy&theme=light&hide_border=true)
 
 Merci de visiter mon GitHub ! 🙏
